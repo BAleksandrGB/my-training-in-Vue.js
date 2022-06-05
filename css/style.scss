@@ -1,0 +1,33 @@
+@import '_reset.scss';
+
+.tasksList{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.current,.completed {
+    border: 1px solid #000;
+    box-sizing: border-box;
+    padding: 20px;
+    background: #e4e3e3;
+    color: #000;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 4px;
+    h2{
+        margin-top: 15px;
+        text-align: center;
+    }
+}
+ 
+
+
+.current {
+    color: rgb(215, 232, 20);
+    background: rgb(84, 84, 84);
+}
+.completed {
+    color: rgb(73, 232, 20);
+    background:rgb(84, 84, 84);
+}

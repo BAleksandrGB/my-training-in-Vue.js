@@ -1,0 +1,20 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "\"# my-training-in-Vue.js\" \r \"# Данный репозиторий создан исключительно для личеого пользования и изучения Vue.js\"",
+  "main": "index.js",
+  "scripts": {
+    "server": "node js/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BAleksandrGB/my-training-in-Vue.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BAleksandrGB/my-training-in-Vue.js/issues"
+  },
+  "homepage": "https://github.com/BAleksandrGB/my-training-in-Vue.js#readme"
+}
